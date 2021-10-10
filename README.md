@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### this is a test
+# my favourite language is vb.net thank you very much for listening to my ted talk
 
 <!--
 **Hydrazer/Hydrazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
