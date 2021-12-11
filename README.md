@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # my favourite language is vb.net thank you very much for listening to my ted talk
 
 <!--
